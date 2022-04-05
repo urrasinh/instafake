@@ -14,6 +14,7 @@ Instafake es un sitio web desarrollado por un grupo de estudiantes dentro del Bo
 
 ## Cómo se usa
   Abra el formulario y rellene los campos para ver las imagenes
+  user: Sincere@april.biz pass: secret
 
 ## Librerías usadas
 + [Bootstrap 5.1.3](https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css)
